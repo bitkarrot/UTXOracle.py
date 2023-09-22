@@ -9,3 +9,6 @@ Everyone who runs this will get the same price independently.
 Open source, 100% on-chain data, no external libraries, no cookies. Works offline. 
 
 https://utxo.live/oracle/
+
+
+Also see: https://twitter.com/SteveSimple/status/1704864674431332503
